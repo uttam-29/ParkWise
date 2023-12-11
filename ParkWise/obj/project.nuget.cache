@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r9Zhf5JNV88Y5KyiZL44S41JOSnKDqdrkHORcusXK9KfVh5NG87cj2W7c/fELnWe1jOsUEeKCftRZE/FMnH7qA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Equilap41\\source\\repos\\ParkWise\\ParkWise\\ParkWise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Equilap41\\.nuget\\packages\\dapper\\2.1.24\\dapper.2.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
